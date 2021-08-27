@@ -26,12 +26,12 @@ telegraphbot = Client("TELEGRAPH",
 @telegraphbot.on_message(filters.command('start') & filters.incoming)
 async def start_handlers(c, m):
     await m.reply_text(
-        "Hello {}, I'm 𝐓𝐇𝐄 𝐒𝐈𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ⸸.\n\n"
-        "✙ I Am A Telegra.ph Uploader.\n\n"
-        "✙ I Can Upload Photos To Telegra.ph And Give You The Link.\n"
-        "✙ I Can Create A Instant View Link For Your Text.\n"
-        "✙ I Can Create Post In Telegra.ph If You Send Any Text.\n"
-        "✙ Check Out Our Network [Click Here](https://t.me/The_Sinners_Empire)",
+        "𝘏𝘦𝘭𝘭𝘰 𝘜𝘴𝘦𝘳, I'm 𝐓𝐇𝐄 𝐒𝐈𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ⸸ ✙\n\n"
+        "✙ 𝙄 𝘼𝙢 𝘼 Telegraph.ph 𝙐𝙥𝙡𝙤𝙖𝙙𝙚𝙧.\n\n"
+        "✙ 𝙄 𝘾𝙖𝙣 𝙐𝙥𝙡𝙤𝙖𝙙 𝙋𝙝𝙤𝙩𝙤𝙨 𝙏𝙤 𝙏𝙚𝙡𝙚𝙜𝙧𝙖.𝙥𝙝 𝘼𝙣𝙙 𝙂𝙞𝙫𝙚 𝙔𝙤𝙪 𝙏𝙝𝙚 𝙇𝙞𝙣𝙠 ✙\n"
+        "✙ 𝗜 𝗖𝗮𝗻 𝗖𝗿𝗲𝗮𝘁𝗲 𝗔 𝗜𝗻𝘀𝘁𝗮𝗻𝘁 𝗩𝗶𝗲𝘄 𝗟𝗶𝗻𝗸 𝗙𝗼𝗿 𝗬𝗼𝘂𝗿 𝗧𝗲𝘅𝘁 ✙\n"
+        "✙ 𝐈 𝐂𝐚𝐧 𝐂𝐫𝐞𝐚𝐭𝐞 𝐏𝐨𝐬𝐭 𝐈𝐧 Telegraph.ph 𝐈𝐟 𝐘𝐨𝐮 𝐒𝐞𝐧𝐝 𝐀𝐧𝐲 𝐓𝐞𝐱𝐭  ✙\n"
+        "✙ ✙ 𝐂𝐡𝐞𝐜𝐤 𝐎𝐮𝐭 𝐎𝐮𝐫 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 [𝘊𝘭𝘪𝘤𝘬 𝘏𝘦𝘳𝘦](https://t.me/The_Sinners_Empire)",
         disable_web_page_preview=True,
         quote=True
     )
