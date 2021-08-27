@@ -1,4 +1,4 @@
-# Telegraph-Uploader 📤
+# 𝐓𝐇𝐄 𝐒𝐈𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ⸸
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/TeamSinx/SinLoader)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/lucifer_sinx)
