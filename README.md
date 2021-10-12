@@ -57,3 +57,6 @@ For creating a post in telegra.ph send any text (for adding the title speperate 
 
 **Available**[<p align="center">
 <img src="https://telegra.ph/file/565e447eaf7b9f9ecadb3.jpg" width="50">](https://telegram.dog/lucifer_sinx)
+
+<b>Deploy on Heroku</b>
+<p align="left">
